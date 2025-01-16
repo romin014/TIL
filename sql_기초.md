@@ -70,7 +70,8 @@ where age = 21 and name like '김%'
 ## 5. 별명 지정  
 * 컬럼의 별명 지정하기     
     * 컬럼 as 별명   
-    * 컬럼 "별명"
+    * 컬럼 별명
+      > 문자 사용시 " "
 ```
 select sutudent_age as age   
 ```
