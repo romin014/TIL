@@ -36,18 +36,48 @@ where age > 10
     * ` > : 크다  
     * ` >= : 크거나 같다
     * < : 작다
-    * <= : 작거나 같다  
+    * <= : 작거나 같다     
+
 * BETWEEN  
     * between a and b : a와 b 사이  
-> where age between 10 and 20
+```
+where age between 10 and 20
+```
 * IN
     * in(a,b) : a와 b를 포함
-> where age in (10, 11)  
+```
+where age in (10, 11)  
+```
 * LIKE
     * like '시작문자%'
     * like '%포함문자%'
     * like '%끝문자'  
-> where name like '김%'
+```
+where name like '김%'
+```
 
+## 4. 논리연산자  
+* AND  
+    * 그리고  
+* OR  
+    * 또는
+* NOT  
+    * 아닌  
+```
+where age = 21 and name like '김%'  
+```
 
+## 5. 별명 지정  
+* 컬럼의 별명 지정하기     
+    * 컬럼 as 별명   
+    * 컬럼 "별명"
+```
+select sutudent_age as age   
+```
+
+* 테이블의 별명 지정하기   
+    * 테이블 별명   
+```
+from student s
+```
 
