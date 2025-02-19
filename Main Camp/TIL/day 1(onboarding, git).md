@@ -1,6 +1,6 @@
-[사전 캠프 1일차]wireframe 
+[사전 캠프 1일차]onboarding, git
 
-# 1. 공부
+## 1. 오늘의 학습 내용
 ### 1. Git 기초
 * Git이란?  
    - 코드 변경점을 기록  
@@ -36,6 +36,10 @@
    - 다른 사람이 변경한 코드 가져오기
 
 ### 3. 주간 과제
+
+프로젝트 명 : 팀원을 소개하는 웹페이지 만들기
+기간 : 2.17 ~ 21
+맡은 역할 : 메인 페이지 등록/삭제 기능 & 데이터베이스
 
 - git 주소 : https://github.com/s-woni/Onboarding-Mini-Project
 - 팀 노션 : https://www.notion.so/teamsparta/13-19d2dc3ef51480489ac9c060183149f4
