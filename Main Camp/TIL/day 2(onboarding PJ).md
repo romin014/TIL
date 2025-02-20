@@ -9,7 +9,7 @@
 - git 주소 : https://github.com/s-woni/Onboarding-Mini-Project
 - 팀 노션 : https://www.notion.so/teamsparta/13-19d2dc3ef51480489ac9c060183149f4
 
-## 1. 구현
+# 1. 구현
 > 깃을 사용하여 각자 자기가 맡은 기능을 구현하고 깃을 통해 공유하는 형식으로 프로젝트를 진행  
 
 > 각자의 코드를 추후 통합할 예정
@@ -197,7 +197,7 @@ $(document).on('click', '.delete-btn', async function () {
 
 
 
-## 2. 겪었던 문제점 & 에러
+# 2. 겪었던 문제점 & 에러
 * 데이터베이스의 값을 통해 생성할 카드 구현
    * 처음 카드를 생성하기 위헤서는 이미 존재하는 카드가 있고 그 카드의 구현 값을 가져와 새로운 카드가 생성되는 방식  
    * 기존에 있던 카드는 데이터베이스에 값이 저장되어있지 않았기 때문에 새롭게 생성된 카드들과는 달리 사용자가 임의로 삭제할 수 없음
@@ -209,6 +209,6 @@ $(document).on('click', '.delete-btn', async function () {
       * 기존 카드 없이도 원하는 모양의 카드들이 새롭게 생성됨
       * `<div id="card" class="row row-cols-1 row-cols-md-4 g-4"> </div>`  
 
-## 3. 내일 할 것
+# 3. 내일 할 것
 다른 팀원들이 작업한 코드를 확인하고 하나의 완성물로 병합하기
 
