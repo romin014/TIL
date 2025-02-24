@@ -1,4 +1,4 @@
-[사전 캠프 1일차]onboarding, git
+[본캠프 1일차]onboarding, git
 
 ## 1. 오늘의 학습 내용
 ### 1. Git 기초

@@ -1,4 +1,4 @@
-[사전 캠프 3일차]Onboarding_Mini_Project
+[본캠프 3일차]Onboarding_Mini_Project
 
 ### 주간 과제
 
