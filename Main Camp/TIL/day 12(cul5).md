@@ -71,7 +71,7 @@ public char getMarkl() {
 //OperatorType symbol = new OperatorType(mark);
 //열거형 생성자는 직접 호출하는 것이 불가능
 //이미 정의된 인스턴스를 사용해야함
-//fromMark(정적메소드)를 사용하여 상수집합 호출
+//setMark(정적메소드)를 사용하여 상수집합 호출
 OperatorType symbol = OperatorType.setMark(mark);
 ```
 
